@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3c2bc43a-2cca-4501-9c54-79a9e4baf261",
+  "export_job_id": "8cb64440-1c5a-440b-a38c-64e60baecf5b",
   "id_short": 948896,
-  "published_at": "2026-04-15T19:45:57Z",
+  "published_at": "2026-04-19T07:18:42Z",
   "repo_name": "the-hhi-monopoly-index-for-missouri-us-sample-948896",
   "sample_asset_name": "beamstation_948896_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/948896/beamstation_948896_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_records": 50,
   "sample_sha256": "ac230b415e284dae993bdf3180c52b54c02254cc0748c0efdffea324540d2560",
   "sample_size_bytes": 209484,
-  "total_records": 569
+  "total_records": 500
 }
