@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Missouri, US",
-  "export_job_id": "3c2bc43a-2cca-4501-9c54-79a9e4baf261",
+  "export_job_id": "8cb64440-1c5a-440b-a38c-64e60baecf5b",
   "github_org": "Beamstation-Datasets",
   "id_short": 948896,
   "location_name": "Missouri",
   "location_type": "state",
   "repo_name": "the-hhi-monopoly-index-for-missouri-us-sample-948896",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/948896/beamstation_948896_restaurants-us-mo_SAMPLE_DIST.csv",
-  "sample_pct": 8.79,
+  "sample_pct": 10.0,
   "sample_records": 50,
   "sample_sha256": "ac230b415e284dae993bdf3180c52b54c02254cc0748c0efdffea324540d2560",
   "sample_size_bytes": 209484,
-  "total_records": 569,
-  "updated_at": "2026-04-08T00:52:25.538748+00:00"
+  "total_records": 500,
+  "updated_at": "2026-04-15T06:34:21.195980+00:00"
 }
