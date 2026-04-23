@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Missouri, US
 
-> Free BeamStation sample export with 50 rows and masked direct-contact fields.
+> Free BeamStation sample export with 43 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `948896` |
 | Location | Missouri |
 | Category | Restaurants |
-| Full dataset size | 500 records |
-| Free sample size | 50 records (10.0%) |
-| Last export | 2026-04-15T06:34:21.195980+00:00 |
+| Full dataset size | 439 records |
+| Free sample size | 43 records (9.79%) |
+| Last export | 2026-04-22T12:38:35.131500+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-missouri-us-sample-948896/releases/download/sample-latest/beamstation_948896_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
